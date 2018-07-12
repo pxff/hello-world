@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-hi,my name is pangxiaofei ,I come from ChongQing China.
+hi,my name is pangxiaofei ,I come from ChongQing .
